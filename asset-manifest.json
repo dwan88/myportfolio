@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.bbde145a.css",
-    "main.js": "/myportfolio/static/js/main.2b616620.js",
+    "main.js": "/myportfolio/static/js/main.bdce2e08.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
-    "static/media/Pfp1.jpg": "/myportfolio/static/media/Pfp1.52132db6fd78357c829c.jpg",
+    "static/media/clouds.jpg": "/myportfolio/static/media/clouds.f6ed9a3e1f477a72e4b3.jpg",
+    "static/media/Linked-in.jpg": "/myportfolio/static/media/Linked-in.f8b199737100a4e5f11b.jpg",
     "static/media/Project1.png": "/myportfolio/static/media/Project1.9273edb3e6e57fc9309e.png",
-    "static/media/Profile Picture.jpg": "/myportfolio/static/media/Profile Picture.98e6f02501f0180fb735.jpg",
-    "static/media/Simon-Wan-Resume.pdf": "/myportfolio/static/media/Simon-Wan-Resume.1badfd5b4faa4c3f22d2.pdf",
-    "static/media/NYP logo.png": "/myportfolio/static/media/NYP logo.d6074f0c1613e700b568.png",
+    "static/media/Personal Resume.pdf": "/myportfolio/static/media/Personal Resume.9bf1d7b830304c68f49a.pdf",
     "index.html": "/myportfolio/index.html",
     "main.bbde145a.css.map": "/myportfolio/static/css/main.bbde145a.css.map",
-    "main.2b616620.js.map": "/myportfolio/static/js/main.2b616620.js.map",
+    "main.bdce2e08.js.map": "/myportfolio/static/js/main.bdce2e08.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbde145a.css",
-    "static/js/main.2b616620.js"
+    "static/js/main.bdce2e08.js"
   ]
 }

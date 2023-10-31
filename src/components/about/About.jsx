@@ -16,13 +16,9 @@ const About = () => {
             </div>
 
           <p>
-            Hi! I'm Simon, a rising senior at Baruch College, majoring in Computer Information Systems. 
-            As a passionate and driven individual, I am dedicated to exploring the fascinating world of technology 
-            and its endless possibilities. Currently, I am honing my skills and expanding my knowledge as a Web 
-            Development Intern, where I have the opportunity to apply my classroom learnings to real-world projects. 
-            With a new foundation in web development and an eye for detail, I strive to create user-friendly 
-            and visually appealing websites. I am excited about the ever-evolving field of technology and look forward 
-            to making meaningful contributions to the digital landscape.
+            Hello! I am currently pursuing a Computer Engineering Technology Bachelor's Degree at Rochester 
+            Institute of Technology. I am seeking an internship for the summer/fall of 2024 to broaden my 
+            experience and knowledge in the industry while also gaining skills in hardware and software.
           </p>
           </div>
 

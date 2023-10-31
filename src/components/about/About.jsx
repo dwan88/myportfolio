@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Pfp from '../../assets/Profile Picture.jpg'
+import Pfp from '../../assets/clouds.jpg'
 
 const About = () => {
   return (
